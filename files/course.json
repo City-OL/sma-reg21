@@ -1,0 +1,189 @@
+{
+  "course": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.38658837826698, 8.174431622028353]
+      },
+      "properties": {
+        "code": "SRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.38890734001255, 8.173586726188661]
+      },
+      "properties": {
+        "code": "ADA",
+        "node": 33,
+        "feature": "road",
+        "controlLocation": "junction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.39001531063847, 8.173262832287648]
+      },
+      "properties": {
+        "code": "KNU",
+        "node": 34,
+        "feature": "road",
+        "controlLocation": "junction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.38799065591483, 8.177632102168626]
+      },
+      "properties": {
+        "code": "VER",
+        "node": 35,
+        "feature": "broad_leaved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.3874382246293, 8.179624341855]
+      },
+      "properties": {
+        "code": "PQA",
+        "node": 36,
+        "feature": "building",
+        "controlLocation": "north_west_corner_outside"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.38787473857316, 8.181683301128462]
+      },
+      "properties": {
+        "code": "BNJ",
+        "node": 52,
+        "feature": "building",
+        "controlLocation": "south_east_corner_outside"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "HGL",
+        "node": 53,
+        "feature": "track_path",
+        "controlLocation": "junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.387918133489954, 8.183326221317698]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.386801644714865, 8.184899930086953]
+      },
+      "properties": {
+        "node": 57,
+        "code": "RLA",
+        "feature": "broad_leaved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.38715703458439, 8.186971014872874]
+      },
+      "properties": {
+        "code": "FDR",
+        "node": 60,
+        "feature": "road",
+        "controlLocation": "crossing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.38608291806378, 8.186161296056088]
+      },
+      "properties": {
+        "code": "SRG",
+        "node": 59,
+        "feature": "road",
+        "controlLocation": "bend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.38518745713073, 8.184148926180018]
+      },
+      "properties": {
+        "code": "UFL",
+        "node": 58,
+        "feature": "road",
+        "controlLocation": "junction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.38561277537798, 8.182353702387717]
+      },
+      "properties": {
+        "code": "TXV",
+        "node": 55,
+        "feature": "road",
+        "controlLocation": "junction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.3857036897054, 8.179401575298455]
+      },
+      "properties": {
+        "code": "EWS",
+        "node": 54,
+        "feature": "broad_leaved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.38626443408909, 8.17751546591666]
+      },
+      "properties": {
+        "code": "PST",
+        "node": 49,
+        "feature": "broad_leaved"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.386581082105906, 8.174407482533613]
+      },
+      "properties": {
+        "code": "SRL"
+      }
+    }
+  ]
+}
