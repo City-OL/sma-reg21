@@ -76,15 +76,15 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.387918133489954, 8.183326221317698]
+      },
       "properties": {
         "code": "HGL",
         "node": 53,
         "feature": "track_path",
         "controlLocation": "junction"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [47.387918133489954, 8.183326221317698]
       }
     },
     {
